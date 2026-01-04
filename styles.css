@@ -388,7 +388,7 @@ section {
 }
 
 .project-image {
-  height: 250px;
+  height: 550px;
   overflow: hidden;
 }
 
@@ -829,3 +829,4 @@ section {
     transform: rotate(360deg);
   }
 }
+
